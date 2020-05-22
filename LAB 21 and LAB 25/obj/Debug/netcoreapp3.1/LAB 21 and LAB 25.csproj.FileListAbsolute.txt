@@ -1,0 +1,39 @@
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\bin\Debug\netcoreapp3.1\LAB 21 and LAB 25.exe
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\bin\Debug\netcoreapp3.1\LAB 21 and LAB 25.deps.json
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\bin\Debug\netcoreapp3.1\LAB 21 and LAB 25.runtimeconfig.json
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\bin\Debug\netcoreapp3.1\LAB 21 and LAB 25.runtimeconfig.dev.json
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\bin\Debug\netcoreapp3.1\LAB 21 and LAB 25.dll
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\bin\Debug\netcoreapp3.1\LAB 21 and LAB 25.pdb
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\bin\Debug\netcoreapp3.1\LAB 21 and LAB 25.Views.dll
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\bin\Debug\netcoreapp3.1\LAB 21 and LAB 25.Views.pdb
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\LAB 21 and LAB 25.csprojAssemblyReference.cache
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\LAB 21 and LAB 25.csproj.CoreCompileInputs.cache
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\LAB 21 and LAB 25.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\LAB 21 and LAB 25.RazorAssemblyInfo.cache
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\LAB 21 and LAB 25.RazorAssemblyInfo.cs
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\LAB 21 and LAB 25.AssemblyInfoInputs.cache
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\LAB 21 and LAB 25.AssemblyInfo.cs
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\LAB 21 and LAB 25.TagHelpers.input.cache
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\LAB 21 and LAB 25.TagHelpers.output.cache
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\LAB 21 and LAB 25.RazorCoreGenerate.cache
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\LAB 21 and LAB 25.RazorTargetAssemblyInfo.cache
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\LAB 21 and LAB 25.RazorTargetAssemblyInfo.cs
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\LAB 21 and LAB 25.Views.pdb
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\staticwebassets\LAB 21 and LAB 25.StaticWebAssets.Manifest.cache
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\staticwebassets\LAB 21 and LAB 25.StaticWebAssets.xml
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\LAB 21 and LAB 25.dll
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\LAB 21 and LAB 25.pdb
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\LAB 21 and LAB 25.genruntimeconfig.cache
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\LAB 21 and LAB 25.csproj.CopyComplete
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registration.cshtml.g.cs
+C:\Users\jwors\source\repos\LAB 21 and LAB 25\LAB 21 and LAB 25\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs

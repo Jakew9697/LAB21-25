@@ -1,0 +1,34 @@
+﻿<p>Movie Registration Form</p>
+
+<form action="Result" method="get">
+
+    <p>ID</p>
+    <input type="number" name="ID" />
+
+    <p>Title</p>
+    <input type="text" name="Title" maxlength="50" />
+
+    <p>Genre</p>
+    <input list="Genres" name="Genre" required>
+    <datalist id="Genres">
+        <option value="Action" />
+        <option value="Drama" />
+        <option value="Chick Flick" />
+        <option value="Horror" />
+        <option value="Comedy" />
+    </datalist>
+
+
+    <p>Year</p>
+    <input type="date" name="releaseYear" min="1880-01-01" max="@DateTime.Now.ToString("yyyy-MM-dd")" />
+
+    <p>Actors</p>
+    <input type="text" name="Actors" />
+
+    <p>Directors</p>
+    <input type="text" name="Directors" />
+    <!--this is a break-->
+    <br />
+    <input type="submit" value="Register Movie" />
+
+</form>
